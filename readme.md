@@ -1,5 +1,4 @@
 # Layout con flexbox
-----------
 #### Utilizado HTML/CSS ####
 ___
 En este proyecto realice un layout utilizando ***flexbox*** y ***media query*** para hacer un diseño responsive.
